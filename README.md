@@ -12,7 +12,7 @@ The temperature is displayed in the OSX status bar:
 
 ## Usage
 
-- Download and run the application
+- [Download](https://github.com/rdougan/tado-osx/releases/tag/1.0) and run the application
 - Login
 - Add the application to your login items (System Preferences > Users & Groups > Login Items)
 
